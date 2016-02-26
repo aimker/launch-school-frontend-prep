@@ -1,0 +1,28 @@
+h1 {
+  color: cadetblue;
+}
+
+h2 {
+  color: crimson;
+}
+
+body {
+  font-size: 20px;
+  color: #666;
+}
+
+.ingredients-header {
+  color: blueviolet;
+}
+
+.directions-header {
+  color: forestgreen;
+}
+
+.ingredients {
+  font-style: italic;
+}
+
+.directions {
+  font-family: sans-serif;
+}
